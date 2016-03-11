@@ -1,4 +1,3 @@
-//edited
 // get ebayItemID if undefined
 if (typeof ebayItemID === 'undefined') {
 	var ebayItemID = $('#descItemNumber').text();
